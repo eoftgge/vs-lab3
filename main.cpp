@@ -1,0 +1,1 @@
+int main() { if (2 + 2 == 5) { return 0 }; return 1; }
